@@ -23,6 +23,7 @@ The form allows users to input student details such as roll number, full name, c
 - [Examples of Use](#examples-of-use)
 - [Project Status](#project-status)
 - [Sources](#sources)
+- [Screenshots](#screenshots)
 
 ## Scope of Functionalities
 - **Add Student Record**: Users can input new student records (roll number, name, class, birthdate, address, enrollment date).
@@ -48,7 +49,18 @@ The form allows users to input student details such as roll number, full name, c
 - [JsonPowerDB](https://www.jsonpowerdb.com/)
 - [Bootstrap](https://getbootstrap.com/) (For form styling and layout)
 
+## Screenshots
+1. **Student Enrollment Form**  
+   ![Student Enrollment Form](screenshots/screenshot1.png)
+   
+2. **Database Dashboard**  
+   ![Student Data Before Update](screenshots/screenshot3.png)
+
+3. **Data in Database**  
+   ![Form After Update](screenshots/screenshot2.png)
+
+*Note: Replace "path_to_image" with actual paths or URLs of the screenshots.*
+
 ## Other Information
 - Ensure you have a valid JsonPowerDB connection token to interact with the database.
 - This project uses AJAX for seamless communication with JsonPowerDB.
-
