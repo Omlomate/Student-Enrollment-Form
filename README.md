@@ -59,7 +59,6 @@ The form allows users to input student details such as roll number, full name, c
 3. **Data in Database**  
    ![Form After Update](screenshots/screenshot2.png)
 
-*Note: Replace "path_to_image" with actual paths or URLs of the screenshots.*
 
 ## Other Information
 - Ensure you have a valid JsonPowerDB connection token to interact with the database.
