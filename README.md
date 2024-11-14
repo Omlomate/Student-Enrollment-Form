@@ -62,4 +62,4 @@ The form allows users to input student details such as roll number, full name, c
 
 ## Other Information
 - Ensure you have a valid JsonPowerDB connection token to interact with the database.
-- This project uses AJAX for seamless communication with JsonPowerDB.
+- This project uses AJAX for seamless communication with JsonPowerDB
