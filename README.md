@@ -57,7 +57,7 @@ The form allows users to input student details such as roll number, full name, c
    ![Student Data Before Update](path_to_image/screenshot2.png)
 
 3. **Form After Successful Update**  
-   ![Form After Update](/screenshot/Screenshot 2024-11-14 124421.png)
+   ![Form After Update](/screenshot/screenshot1.png)
 
 
 
